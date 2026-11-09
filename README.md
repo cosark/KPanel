@@ -208,6 +208,10 @@ Alpine Linux 3.24 `sys` mode 的 OpenRC 路径也已实现并通过自动化契�
 > KPanel 具备宿主机管理能力。请只在可信服务器上使用官方部署入口；生产环境请先备份现有配置，
 > 并为管理入口配置 HTTPS 与访问控制。
 
+## 一键部署
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/KPanel/)
+
 ## 管理真实主机，边界也必须真实
 
 <p align="center">
